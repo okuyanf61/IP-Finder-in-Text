@@ -23,3 +23,5 @@ for i in ip:
     text_file.write(i + "\n")
 
 text_file.close()
+
+# Mehmet Fatih Okuyan
